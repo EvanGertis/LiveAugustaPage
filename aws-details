@@ -1,0 +1,5 @@
+ user-pool id: us-east-1_jqex3BIk2
+ app-clieant id: 4aeh1ted99l4ng0htkdbg90r4i
+
+ arn: arn:aws:dynamodb:us-east-1:138578767478:table/liveaugusta
+roll name: liveaugustaLambda
